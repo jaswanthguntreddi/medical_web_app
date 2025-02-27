@@ -1,1 +1,1 @@
-# medical_web_app
+# code-prep-gemini-ai-course
